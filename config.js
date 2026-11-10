@@ -8,8 +8,8 @@ window.MEMORIAL = {
   family: '배우자: 김미경\n상주(장남): 김상훈\n아들: 김태훈\n며느리: 오서현',
   address: '서울특별시 종로구 새문안로 9, 서울적십자병원 장례식장',
   phone: '',
-  bank: '',
-  account: '',
-  accountHolder: '',
+  bank: '신한은행',
+  account: '110-473-063733',
+  accountHolder: '김상훈',
   message: '故 김수년님께서 별세하셨기에 삼가 알려드립니다.\n마음으로 함께해 주시는 모든 분께 감사드립니다.'
 };
