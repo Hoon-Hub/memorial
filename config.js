@@ -2,11 +2,11 @@
 window.MEMORIAL = {
   name: '',
   passed: '',
-  hall: '',
+  hall: '서울적십자병원 장례식장\n빈소 호실: 추후 안내 예정',
   departure: '',
   burial: '',
   family: '',
-  address: '',
+  address: '서울특별시 종로구 새문안로 9, 서울적십자병원 장례식장',
   phone: '',
   bank: '',
   account: '',
